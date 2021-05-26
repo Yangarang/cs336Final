@@ -1,5 +1,4 @@
 # cs336Final
- HS Tech - Code Drop
  Hearthstone Tech is a website that will help you climb over barrier of entry that exist within the game. Like all card games, there exist some cards that are just plain better than others. Hearthstone Tech will guide you up the Ranked Ladder which in turn will get you more golden cards at the end of the season which can be disenchanted into tons of dust which allows you to craft better cards!
  
 URL:
